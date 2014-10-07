@@ -14,5 +14,14 @@ git remote -v
 
 cat ~/.ssh/id_rsa_pub
 
+git branch develop
+git branch
+git branch -a
+git checkout develop
+.gitignore
+git add -A
+git merge develop
+git push orgin master
+git push orgin develop
 
 
