@@ -1,0 +1,2 @@
+php_value session.cookie_domain .thairentacar.com
+php_flag register_globals on
